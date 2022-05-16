@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SmartHarz-Thermometer")(type "KiCad")(uri "${KIPRJMOD}/libraries/SmartHarz-Thermometer.pretty")(options "")(descr ""))
+)
