@@ -1263,7 +1263,7 @@
     (property "Value" "2u2" (id 1) (at 117.094 47.752 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (id 2) (at 116.84 45.72 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" (id 2) (at 116.84 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 116.84 45.72 0)
@@ -1423,7 +1423,7 @@
     (property "Value" "1u" (id 1) (at 81.534 47.752 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (id 2) (at 81.28 45.72 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 81.28 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 81.28 45.72 0)
@@ -1534,10 +1534,10 @@
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
     (path "/e5090c7c-ffcb-481d-86eb-05789a11c441"
-      (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/9cc15c77-95cd-4047-b5ae-7d78444d49a4"
-      (reference "C2") (unit 1) (value "2u2") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C2") (unit 1) (value "2u2") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
     )
     (path "/219829e0-df80-437f-a5b8-882f8f44fea2"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
