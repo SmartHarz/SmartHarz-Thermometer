@@ -390,7 +390,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SmartHarz-Thermometer.step",
       "vrml": ""
     },
     "page_layout_descr_file": "TPL_SmartHarz_Schematics.kicad_wks"
