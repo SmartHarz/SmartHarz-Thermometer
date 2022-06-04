@@ -1,5 +1,6 @@
-# SmartHarz-Thermometer (Deutsch|[English below](#smartharz-thermometer-english))
-Eine simple Trägerplatine für einen DHT22 und 0,96"-I2C-OLED gesteuert über einen ESP8266 (D1 Mini).
+# SmartHarz-Thermometer
+
+## Trägerplatine für DHT22 und D1 Mini mit OLED (Deutsch|[English below](#carrier-board-for-dht22-and-a-d1-mini-with-oled-english))
 
 ![Frontansicht des Thermometers mit Bauteilen](images/thermometer-3d-front-with-parts.png)
 ![Seitenansicht des Thermometers mit Bauteilen](images/thermometer-3d-side-with-parts.png)
@@ -18,8 +19,7 @@ Im Workshop wird das Thermometer auf Basis von MQTT in NodeRed integriert.
 Die Stromversorgung kann wahlweise über die USB Schnittstelle oder über Rundstecker mit +6V bis +40V Gleichstrom erfolgen.
 Im Bausatz selber befinden sich Adapter für 9V Blöcke und eine entsprechende Batterie.
 
-# SmartHarz-Thermometer (English)
-A simple carrier board for a DHT22 and a .96"-I2C-OLED controlled by a ESP8266 (D1 Mini).
+## Carrier board for DHT22 and a D1 Mini with OLED (English)
 
 ![Front view of the thermometer with parts](images/thermometer-3d-front-with-parts.png)
 ![Side view of the thermometer with parts](images/thermometer-3d-side-with-parts.png)
