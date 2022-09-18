@@ -711,17 +711,10 @@
     (uuid fa1c3532-11b4-47d4-9324-9be9bf0a61a0)
   )
 
-<<<<<<< HEAD
   (no_connect (at 41.91 185.42) (uuid a3490e97-9576-4beb-8cf5-ba90e3aaf183))
   (no_connect (at 36.83 185.42) (uuid a3490e97-9576-4beb-8cf5-ba90e3aaf184))
   (no_connect (at 31.75 185.42) (uuid a3490e97-9576-4beb-8cf5-ba90e3aaf185))
   (no_connect (at 26.67 185.42) (uuid a3490e97-9576-4beb-8cf5-ba90e3aaf186))
-=======
-  (no_connect (at 26.67 185.42) (uuid 6bfca7b2-009f-4a3d-89e9-4498f945f3fb))
-  (no_connect (at 31.75 185.42) (uuid 6bfca7b2-009f-4a3d-89e9-4498f945f3fb))
-  (no_connect (at 36.83 185.42) (uuid 6bfca7b2-009f-4a3d-89e9-4498f945f3fb))
-  (no_connect (at 41.91 185.42) (uuid 6bfca7b2-009f-4a3d-89e9-4498f945f3fb))
->>>>>>> 1ef551dc16a834aef869da9beec1b41d527119e7
   (no_connect (at 67.31 113.03) (uuid b97ab545-43e9-4a1b-86e6-ee3584fd0cad))
   (no_connect (at 67.31 110.49) (uuid b97ab545-43e9-4a1b-86e6-ee3584fd0cae))
   (no_connect (at 67.31 123.19) (uuid b97ab545-43e9-4a1b-86e6-ee3584fd0caf))
@@ -1161,7 +1154,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a2464dc8-cc25-41e2-9b4a-5c23aed4802a))
-<<<<<<< HEAD
     (instances
       (project "SmartHarz-Thermometer"
         (path "/e6eb23c0-64eb-4b0f-9bb0-547ddad6385a"
@@ -1169,8 +1161,6 @@
         )
       )
     )
-=======
->>>>>>> 1ef551dc16a834aef869da9beec1b41d527119e7
   )
 
   (symbol (lib_id "MCU_Module:WeMos_D1_mini") (at 57.15 123.19 0) (unit 1)
@@ -1204,7 +1194,6 @@
     (pin "7" (uuid 4c076d70-1eab-4c06-a4a2-5697b515f55e))
     (pin "8" (uuid 66ae4e64-693a-41a2-80ea-77fcc593d1bd))
     (pin "9" (uuid af75c386-d1ab-46f5-9ebf-3c85f868f0eb))
-<<<<<<< HEAD
     (instances
       (project "SmartHarz-Thermometer"
         (path "/e6eb23c0-64eb-4b0f-9bb0-547ddad6385a"
@@ -1212,8 +1201,6 @@
         )
       )
     )
-=======
->>>>>>> 1ef551dc16a834aef869da9beec1b41d527119e7
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 41.91 182.88 0) (unit 1)
@@ -1232,7 +1219,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3a4c6a7a-2186-4b6b-a397-29ca082cfd98))
-<<<<<<< HEAD
     (instances
       (project "SmartHarz-Thermometer"
         (path "/e6eb23c0-64eb-4b0f-9bb0-547ddad6385a"
@@ -1240,8 +1226,6 @@
         )
       )
     )
-=======
->>>>>>> 1ef551dc16a834aef869da9beec1b41d527119e7
   )
 
   (symbol (lib_id "power:+3V3") (at 59.69 102.87 0) (unit 1)
@@ -1260,7 +1244,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 348698d9-efd1-4e75-9998-38e712eccf2f))
-<<<<<<< HEAD
     (instances
       (project "SmartHarz-Thermometer"
         (path "/e6eb23c0-64eb-4b0f-9bb0-547ddad6385a"
@@ -1268,8 +1251,6 @@
         )
       )
     )
-=======
->>>>>>> 1ef551dc16a834aef869da9beec1b41d527119e7
   )
 
   (symbol (lib_id "Regulator_Linear:AP7384-50V") (at 99.06 40.64 0) (unit 1)
@@ -1660,85 +1641,4 @@
   (sheet_instances
     (path "/" (page "1"))
   )
-<<<<<<< HEAD
-=======
-
-  (symbol_instances
-    (path "/06d8b205-010e-4531-b0db-9430558bbc05"
-      (reference "#PWR01") (unit 1) (value "+9V") (footprint "")
-    )
-    (path "/c7711b75-46d3-43b1-8101-6d83c91abd82"
-      (reference "#PWR02") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/a5caf9f6-e03e-450e-bccc-1a8c713e9865"
-      (reference "#PWR03") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/45292d6b-7f31-4630-b3ef-626784f125ef"
-      (reference "#PWR04") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/cc885f17-fec8-4185-9128-ecde428ca10a"
-      (reference "#PWR05") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/e8ff72e8-701d-4ef6-b596-ff6c37c08ea7"
-      (reference "#PWR06") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/87a79166-ab2d-4a4e-9e72-0ced69ed1710"
-      (reference "#PWR07") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/3c55e61f-4a61-4310-9197-fb63ece4d952"
-      (reference "#PWR08") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/e25aab96-b99a-4142-8e7f-17f7445dce2f"
-      (reference "#PWR09") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f08edda5-0738-4a2f-9824-d74d68224b77"
-      (reference "#PWR010") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/417b94e3-499b-4df1-9b1e-d8924f713648"
-      (reference "#PWR011") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/e5090c7c-ffcb-481d-86eb-05789a11c441"
-      (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
-    )
-    (path "/9cc15c77-95cd-4047-b5ae-7d78444d49a4"
-      (reference "C2") (unit 1) (value "2u2") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
-    )
-    (path "/219829e0-df80-437f-a5b8-882f8f44fea2"
-      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/bab86b6b-302f-40c1-916e-ab470858e44f"
-      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/fae1f5c1-affc-4b3e-8209-1e8b9776ac2f"
-      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/71feb970-9987-4cda-ae62-f1f2c66c5aa0"
-      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via")
-    )
-    (path "/3e4380e9-6087-4e47-bf6f-2c8fcd5da960"
-      (reference "J1") (unit 1) (value "9V") (footprint "SmartHarz-Thermometer:BarrelJack_Wuerth_6941xx301002")
-    )
-    (path "/2b4839c8-d1db-4100-94f0-36b6f7433ec2"
-      (reference "J2") (unit 1) (value "OLED") (footprint "SmartHarz-Thermometer:OLED_Display_128x64")
-    )
-    (path "/9c3baf5f-2117-470e-809e-e120202c30eb"
-      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
-    )
-    (path "/b07b9ef8-d0ce-4207-83c5-54e0af2aa6ed"
-      (reference "R2") (unit 1) (value "4k7") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
-    )
-    (path "/ac3d37f6-1495-41ae-b0d4-a87c7f096b37"
-      (reference "R3") (unit 1) (value "4k7") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
-    )
-    (path "/51aef47a-6000-4245-b4fc-13ef1d11624e"
-      (reference "U1") (unit 1) (value "WeMos_D1_mini") (footprint "SmartHarz-Thermometer:WEMOS_D1_mini_light")
-    )
-    (path "/e3e90852-1b71-439d-93d4-d1dd4d775c41"
-      (reference "U2") (unit 1) (value "DHT22") (footprint "SmartHarz-Thermometer:Aosong_DHT22")
-    )
-    (path "/923c0d47-cf3c-43dd-a7f9-83a0c7ef0acb"
-      (reference "U3") (unit 1) (value "AP7384-50V-A") (footprint "SmartHarz-Thermometer:TO92")
-    )
-  )
->>>>>>> 1ef551dc16a834aef869da9beec1b41d527119e7
 )
